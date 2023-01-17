@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Discover Bulgaria</string>
+    <string name="tb_title">Преоткрий България</string>
+    <string name="background">background image</string>
+    <string name="action_instructions">Помощ</string>
+    <string name="info_button">Разбрах</string>
+    <string name="fact_image">Fact image</string>
+    <string name="carousel_img">CarouselImage</string>
+    <string name="carousel_region_name">CarouselRegionName</string>
+    <string name="carousel_region_area">CarouselRegionArea</string>
+    <string name="fact_chip_title">Факти</string>
+    <string name="poi_chip_title">Забележителности</string>
+    <string name="history_chip_title">Исторически</string>
+    <string name="nature_chip_title">Природонаучни</string>
+    <string name="show_button_title">Покажи</string>
+    <!--<string name="hello_world">Hello world!</string>
+    <string name="say_hello">Say Hello!</string>
+    <string name="goodbye_world">Goodbye world!</string>-->
+    <string-array name="facts">
+        <item>Bulgaria is the oldest country in Europe which has not changed its name since its establishment in 681.</item>
+        <item>The first wrestler in the world with 1500 wins and 3 loses is the bulgarian Doncho Kolev Danev, better known by his ring name Dan Kolov, people also called him King Kong, The king of wrestling and The Bulgarian Lion.</item>
+        <item>Unlike other countries around the world, in Bulgaria people shake their head for \"yes\" and nod for \"no\".</item>
+        <item>The famous bulgarian rose oil is used for the production of some of the most popular and expensive perfumes. One gram of rose oil is produced from 1000 rose petals.</item>
+        <item>Over 15 000 Thracian tombs are discovered on Bulgarian territory, most of them are still unexplored.</item>
+        <item>The golden treasure found in the Varna necropolis is the oldest in the world, it dates from 5000 years B.C. Moreover, it is considered to be the oldest technologically processed gold in Europe.</item>
+        <item>Bulgaria is the third country in Europe with the most valuable archaeological finds on its territory. Before it are only Greece and Italy.</item>
+        <item>The capital city of Sofia has existed for 7000 years which makes it one of the oldest cities in Europe. (On the picture - a monument of Saint Sofia, one of the symbols of the city.)</item>
+        <item>Sofia is the only big European city which is located 15 minutes away from a mountain. Therefore Vitosha mountain is a favorite place to take a walk for many citizens of Sofia.</item>
+        <item>The Bulgarian army has never lost its flag in a battle, despite the many wars waged by the country.</item>
+        <item>Since the launch of Voyager 1 and Voyager 2 in 1977, the Bulgarian folklore song \"Izlel e Delio Haidutin\" performed by Valya Balkanska sounds in space together with the greatest works of Bach and Mozart.</item>
+        <item>The first computer is made by a Bulgarian. In the period 1937&#8211;1942 John Atanasoff, a scientist with a Bulgarian origin, and Clifford Berry, an american inventor, worked at the Iowa State University where they created the first digital electric computer.</item>
+        <item>The first digital wristwatch is made by a Bulgarian. His name is Petar Petrov.</item>
+        <item>Undoubtedly, the Bulgarian yoghurt is the best in the world. This is due to the unique bacteria called Lactobacillus Bulgaricus, which is used for its production and which can be found in a natural way only in Bulgaria.</item>
+        <item>Solid historical records exist proving that wine has been produced on Bulgarian territory since the very stone age. Through the years the country has proven itself as a worldclass wine producer.</item>
+        <item>Every year on the first of March Bulgarians exchange the so-called \"martenitsa\". The adornment made from white and red yarn is a symbol for health and happiness. It can have many forms and is usually represented as two dolls, a male and a female.</item>
+        <item>Bulgaria is the country with the highest number of natural mineral springs in Continental Europe – over 600.</item>
+        <item>The first airplane bombing was conducted by the Bulgarian air forces during the Balkan war on 16 October 1912.</item>
+        <item>Rayna Kasabova is the first woman who took part in a military flight on 30 October 1912. At the age of 15, during the First Balkan War in 1912, she joined the Bulgarian Air Force and flew above Edirne to throw out propaganda leaflets in Turkish. Kasabova Glacier on Davis Coast in Graham Land on the Antarctic Peninsula, Antarctica is named after Rayna Kasabova.</item>
+        <item>The Bulgarians come in second place in the world on the international IQ test.</item>
+        <item>The Rafailov cross, stored in the Rila monastery, which takes away the eyesight of his creator, is a wooden cross with more than 100 microscopical scenes from the Bible. This is one of the most delicate works of art in the world. For its creation have been needed twelve years, miniaturе tools and two eyes less from the creator monk.</item>
+        <item>During the Holocaust Bulgaria saves its jews from being deported to a Nazi concentration camps. The only other european country which had done so is Denmark. On the picture are the jewish Bulgarian children from the summer camp \"Adesa\", a small part of the over 48 000 saved people.</item>
+        <item>Years ago Bulgaria had been closely behind the leader in the exportation of lavender oil - France. The Bulgarian lavender oil has a lasting fine aroma and is a worthy competitor to other oils in the world. In 2012 Bulgaria is the biggest producer of lavender together with France.</item>
+        <item>Over a third of the Bulgarian territory consists of forests. In the end of 2013 that is 37.7% of the territory according to the Ministry of Agriculture and Food.</item>
+        <item>In 1976 the ancient Bulgarian calendar is declared to be the most accurate in the world by UNESCO.</item>
+        <item>The Bulgarian folk music is unique. The compound meters have great preponderance over the simple meters. They are very typical for the Bulgarian folk music and are known as \"Bulgarian meters\" around the world. They are a real challenge for both ordinary listeners and professional musicians.</item>
+        <item>Stefka Kostadinova - the woman with the highest jump on the planet. On 30 August 1987 during the World Championships in Athletics in Rome, she sets the unique world record in the high jump - 209 cm. This record is still unbeaten.</item>
+        <item>The incredible Yordan Yovchev is the one and only gymnast in history who participated six times in the Olympics. He is four-time world champion and an European champion.</item>
+        <item>During the last few years the art technique called wrapping gained significant popularity. Author and most notable creator is the born in Gabrovo - Hristo Yavashev also known as Christo Javacheff - Christo. Among his most famous projects are the wrapping of the Reichstag in Berlin and Pont Neuf in Paris.</item>
+        <item>The Rhodope Mountains bagpipe, is one of the most distinctive symbols of the folklore music in Bulgaria. Spread in the small region of the Central Rhodope mountains, its repertoire retains tunes and songs from the ancient times. The natural materials used - wood, horn, skin and cotton - and the way it is made are the reasons for its specific voice and vibration.</item>
+        <item>The name day or the day of the patron saint is celebrated by these who carry the saint\'s name. Most of the Bulgarians have a name day and some even have more than one. An example is the feast Tsvetnitsa or Palm Sunday on that day everyone who is named after a flower has a name day.</item>
+        <item>The first airbag in the world intended to protect pilots and motorists has been created in 1957 by the Bulgarian Asen Yordanov.</item>
+        <item>The longest cave (over 15 km) named \"Duhlata\" is near the village Bosnek in the skirts of the Vitosha mountain, near Sofia. Six underground rivers have carved labyrinths in its galleries. Around 4000 caves have been explored and mapped in Bulgaria.</item>
+    </string-array>
+    <string-array name="titles">
+        <item>България | Bulgaria</item>
+        <item>Dan Kolov</item>
+        <item>Unlike the others</item>
+        <item>Our Rose Oil</item>
+        <item>Thracian Tombs</item>
+        <item>The Varna Necropolis</item>
+        <item>Archaeology</item>
+        <item>The city of Sofia</item>
+        <item>Sofia and Vitosha mountain</item>
+        <item>Army and flag</item>
+        <item>The Golden Records and Bulgarian folklore</item>
+        <item>John Atanasoff</item>
+        <item>Petar Petrov</item>
+        <item>The Bulgarian yoghurt</item>
+        <item>Wine</item>
+        <item>The Martenitsa</item>
+        <item>Mineral springs</item>
+        <item>Aviation</item>
+        <item>Rayna Kasabova</item>
+        <item>Bulgarians are clever</item>
+        <item>The Rafailov cross</item>
+        <item>A friend in need is a friend indeed!</item>
+        <item>Our Lavender Oil</item>
+        <item>Rich nature</item>
+        <item>The Ancient Bulgarian Calendar</item>
+        <item>The unparalleled folk music</item>
+        <item>Stefka Kostadinova</item>
+        <item>Yordan Yovchev</item>
+        <item>Christo Javacheff</item>
+        <item>The Kaba Gaida</item>
+        <item>The name day</item>
+        <item>Asen Yordanov</item>
+        <item>Caves</item>
+    </string-array>
+</resources>

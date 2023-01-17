@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="photos">
+        <item>@drawable/bulgaria</item>
+        <item>@drawable/dan_kolov</item>
+        <item>@drawable/shake_nod</item>
+        <item>@drawable/rose_oil</item>
+        <item>@drawable/necropolis</item>
+        <item>@drawable/finds</item>
+        <item>@drawable/saint_sofia</item>
+        <item>@drawable/sofia_vitosha</item>
+        <item>@drawable/flag</item>
+        <item>@drawable/valya_balkanska</item>
+        <item>@drawable/john_atanasoff</item>
+        <item>@drawable/petar_petrov</item>
+        <item>@drawable/yoghurt</item>
+        <item>@drawable/wine</item>
+        <item>@drawable/martenitsa</item>
+        <item>@drawable/hisaria</item>
+        <item>@drawable/bomber</item>
+        <item>@drawable/rayna_kasabova</item>
+        <item>@drawable/smart_pic</item>
+        <item>@drawable/cross</item>
+        <item>@drawable/kids</item>
+        <item>@drawable/lavender</item>
+        <item>@drawable/forest</item>
+        <item>@drawable/calendar</item>
+        <item>@drawable/musicians</item>
+        <item>@drawable/stefka_kostadinova</item>
+        <item>@drawable/yordan_yovchev</item>
+        <item>@drawable/reichstag</item>
+        <item>@drawable/kabagaida</item>
+        <item>@drawable/tsvetnitsa</item>
+        <item>@drawable/asen_yordanov</item>
+        <item>@drawable/cave</item>
+    </integer-array>
+
+    <integer-array name="regions">
+        <item>@drawable/bg_01</item>
+        <item>@drawable/bg_02</item>
+        <item>@drawable/bg_03</item>
+        <item>@drawable/bg_04</item>
+        <item>@drawable/bg_05</item>
+        <item>@drawable/bg_06</item>
+        <item>@drawable/bg_07</item>
+        <item>@drawable/bg_08</item>
+        <item>@drawable/bg_09</item>
+        <item>@drawable/bg_10</item>
+        <item>@drawable/bg_11</item>
+        <item>@drawable/bg_12</item>
+        <item>@drawable/bg_13</item>
+        <item>@drawable/bg_14</item>
+        <item>@drawable/bg_15</item>
+        <item>@drawable/bg_16</item>
+        <item>@drawable/bg_17</item>
+        <item>@drawable/bg_18</item>
+        <item>@drawable/bg_19</item>
+        <item>@drawable/bg_20</item>
+        <item>@drawable/bg_21</item>
+        <item>@drawable/bg_22</item>
+        <item>@drawable/bg_23</item>
+        <item>@drawable/bg_24</item>
+        <item>@drawable/bg_25</item>
+        <item>@drawable/bg_26</item>
+        <item>@drawable/bg_27</item>
+        <item>@drawable/bg_28</item>
+    </integer-array>
+
+    <string-array name="region_names">
+        <item>Благоевград</item>
+        <item>Бургас</item>
+        <item>Варна</item>
+        <item>Велико Търново</item>
+        <item>Видин</item>
+        <item>Враца</item>
+        <item>Габрово</item>
+        <item>Добрич</item>
+        <item>Кърджали</item>
+        <item>Кюстендил</item>
+        <item>Ловеч</item>
+        <item>Монтана</item>
+        <item>Пазарджик</item>
+        <item>Перник</item>
+        <item>Плевен</item>
+        <item>Пловдив</item>
+        <item>Разград</item>
+        <item>Русе</item>
+        <item>Силистра</item>
+        <item>Сливен</item>
+        <item>Смолян</item>
+        <item>София</item>
+        <item>София (град)</item>
+        <item>Стара Загора</item>
+        <item>Търговище</item>
+        <item>Хасково</item>
+        <item>Шумен</item>
+        <item>Ямбол</item>
+    </string-array>
+
+    <integer-array name="region_population">
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+        <item>123456</item>
+    </integer-array>
+
+</resources>
