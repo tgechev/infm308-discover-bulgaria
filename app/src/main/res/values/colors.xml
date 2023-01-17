@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorActionBar">#FF000000</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="foreground_material_light">#ffffff</color>
+    <color name="region_highlight">#FFB700</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--    <color name="main_background">#ffd6a5</color>-->
+    <color name="main_background">#FF000000</color>
+    <color name="region_select">#4089FF</color>
+    <color name="show_button_bg">#4089FF</color>
+    <color name="show_button_ripple">#81B1FF</color>
+</resources>
